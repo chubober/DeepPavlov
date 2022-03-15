@@ -10,7 +10,7 @@ from deeppavlov.core.models.component import Component
 
 logger = getLogger(__name__)
 
-class TripPyDST:
+class TripPyasdfDST:
     """
     TripPy Dialogue State Tracker.
 
